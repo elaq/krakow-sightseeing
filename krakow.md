@@ -41,7 +41,7 @@
 
 * don't miss the [rennaisance courtyard](https://en.wikipedia.org/wiki/Wawel#/media/File:Wawel_Krakow_June_2006_002.jpg)
 
-* [Lady with an Ermin](https://en.wikipedia.org/wiki/Lady_with_an_Ermine) is on display here - it's probably one of the most famous piece of art in Poland (the opening hours are short I suppose)
+* [Lady with an Ermine](https://en.wikipedia.org/wiki/Lady_with_an_Ermine) is on display here - it's probably one of the most famous piece of art in Poland (the opening hours are short I suppose)
 
 * nice view over Krakow and Vistula river from the hill
 
@@ -81,7 +81,7 @@
 
 * [Chocolate lounge Wedel](https://www.wedelpijalnie.pl/en/chocolaterias?city=Cracow) - highly recommended if you like chocolate
 
-* [Pod Aniolami](http://www.podaniolami.pl/en) close to the main square looks particularly good, but I've never been here
+* [Pod Aniolami](http://www.podaniolami.pl/en) close to the main square, looks particularly good, but I've never been here
 
 * [Hawelka](http://en.hawelka.pl/) and [Europejska](http://www.europejska.pl/en/) are located in the main square
 
