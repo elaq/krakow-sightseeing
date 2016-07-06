@@ -6,6 +6,8 @@
 
 * [public transport in Krakow](http://krakow.jakdojade.pl/)
 
+* [Polish language](http://www.bbc.co.uk/languages/polish/soap/facts.shtml)
+
 ## [Old town](https://en.wikipedia.org/wiki/Krak%C3%B3w_Old_Town)
 
 #### [Main square](https://en.wikipedia.org/wiki/Main_Square,_Krak%C3%B3w)
@@ -26,7 +28,7 @@
 
 * [Jagiellonian University](https://en.wikipedia.org/wiki/Jagiellonian_University) - main campus of the oldest Polish university (I think it's not very impressive though, so it's not a must-see), established in 1364
 
-* [Planty Park](https://en.wikipedia.org/wiki/Planty_Park) - just a dozen of trees close to the old town, but it's very famous :-)
+* [Planty Park](https://en.wikipedia.org/wiki/Planty_Park) - just a dozen of trees around the old town, but it's very famous :-)
 
 ## [Wawel hill](https://en.wikipedia.org/wiki/Wawel)
 
@@ -56,19 +58,18 @@
 
 * good place for a pleasant walk (there are some buses going there too), very nice view over Krakow and nice green surroundings, open till sunset. Best [walk along the river](https://en.wikipedia.org/wiki/Vistulan_Boulevards_in_Krak%C3%B3w) (as long as there is a path), on the same side of the river as Kosciuszko Mound.
 
-# Other
+## Other
 
 * [Oskar Schindler's Factory](http://www.mhk.pl/branches/oskar-schindlers-factory) -  really good museum about Krakow during II WW. It's probably better to buy tickets in advance. It's open Tue-Sun till 8pm. You can walk from the Museum to Kazimierz through [Kladka Ojca Bernatka](https://pl.wikipedia.org/wiki/K%C5%82adka_Ojca_Bernatka#/media/File:Bernatek_footbridge_(view_from_W_at_night),_Krakow,_Poland.jpg) (foot bridge)
 
-## Near Krakow
+#### Near Krakow
 
 * [Wieliczka salt mine](https://en.wikipedia.org/wiki/Wieliczka_Salt_Mine) - open 7:30-19:30, if you have time in the evening, this is one of the top attractions close to Krakow. You should buy a ticket in advance.
 
 * [Tyniec](https://en.wikipedia.org/wiki/Tyniec) - too far and it's not a top attraction, but to make the story complete I put it here :-)
 
-* [Auschwitz](https://en.wikipedia.org/wiki/Auschwitz_concentration_camp) - around 1h by car from Krakow, there are plenty of companies that orgainze trips for toursits
+* [Auschwitz](https://en.wikipedia.org/wiki/Auschwitz_concentration_camp) - around 1h by car from Krakow, there are plenty of companies that organize trips for toursits
 
 ## Restaurants
 
 * [Wierzynek](https://en.wikipedia.org/wiki/Wierzynek) - the oldest Polish restaurant
-
