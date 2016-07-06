@@ -55,7 +55,7 @@
 
 ## [Kazimierz (Jewish district)](https://en.wikipedia.org/wiki/Kazimierz)
 
-* inhabited by Jews before II WW. There are plenty of restaurants serving Jewish food e.g. at Szeroka street.
+* inhabited by Jews before WW2. There are plenty of restaurants serving Jewish food e.g. at Szeroka street.
 
 ## [Kosciuszko Mound]( https://en.wikipedia.org/wiki/Ko%C5%9Bciuszko_Mound)
 
@@ -63,7 +63,7 @@
 
 ## Other
 
-* [Oskar Schindler's Factory](http://www.mhk.pl/branches/oskar-schindlers-factory) -  really good museum about Krakow during II WW. It's probably better to buy tickets in advance. It's open Tue-Sun till 8pm. You can walk from the Museum to Kazimierz through [Kladka Ojca Bernatka](https://pl.wikipedia.org/wiki/K%C5%82adka_Ojca_Bernatka#/media/File:Bernatek_footbridge_(view_from_W_at_night),_Krakow,_Poland.jpg) (foot bridge)
+* [Oskar Schindler's Factory](http://www.mhk.pl/branches/oskar-schindlers-factory) -  really good museum about Krakow during WW2. It's probably better to buy tickets in advance. It's open Tue-Sun till 8pm. You can walk from the Museum to Kazimierz through [Kladka Ojca Bernatka](https://pl.wikipedia.org/wiki/K%C5%82adka_Ojca_Bernatka#/media/File:Bernatek_footbridge_(view_from_W_at_night),_Krakow,_Poland.jpg) (foot bridge)
 
 #### Near Krakow
 
