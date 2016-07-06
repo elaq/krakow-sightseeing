@@ -79,6 +79,8 @@
 
 * [Chocolate lounge Wedel](https://www.wedelpijalnie.pl/en/chocolaterias?city=Cracow) - highly recommended if you like chocolate
 
-* [Hawelka](http://en.hawelka.pl/) and [Europejska](http://www.europejska.pl/en/) are located in the main square
+* [Hawelka](http://en.hawelka.pl/) (e.g. they serve a plate with different types of "pierogi") and [Europejska](http://www.europejska.pl/en/) are located in the main square
 
-* [this](http://theculturetrip.com/europe/poland/articles/krakow-s-10-best-cultural-restaurants-from-local-eats-to-fine-dining/) seems to be a sensible list of restaurants serving Polish food in Krakow
+* [Kogel-Mogel](http://kogel-mogel.pl/en) close to the main square looks really good, but I've never been here
+
+* [this](http://theculturetrip.com/europe/poland/articles/krakow-s-10-best-cultural-restaurants-from-local-eats-to-fine-dining/) seems to be a sensible list of restaurants
