@@ -8,6 +8,9 @@
 
 * [Polish language](http://www.bbc.co.uk/languages/polish/soap/facts.shtml)
 
+* Polish [dishes](https://www.buzzfeed.com/jessicamisener/proof-polish-food-isnt-all-disgusting) and [ingredients](http://www.tastingpoland.com/food/polish_food_ingredients.html)
+
+
 ## [Old town](https://en.wikipedia.org/wiki/Krak%C3%B3w_Old_Town)
 
 #### [Main square](https://en.wikipedia.org/wiki/Main_Square,_Krak%C3%B3w)
@@ -66,10 +69,16 @@
 
 * [Wieliczka salt mine](https://en.wikipedia.org/wiki/Wieliczka_Salt_Mine) - open 7:30-19:30, if you have time in the evening, this is one of the top attractions close to Krakow. You should buy a ticket in advance.
 
-* [Tyniec](https://en.wikipedia.org/wiki/Tyniec) - too far and it's not a top attraction, but to make the story complete I put it here :-)
+* [Tyniec](https://en.wikipedia.org/wiki/Tyniec) - it's actually a part of Krakow, but it's quite far and it's not a top attraction, but to make the story complete I put it here :-)
 
 * [Auschwitz](https://en.wikipedia.org/wiki/Auschwitz_concentration_camp) - around 1h by car from Krakow, there are plenty of companies that organize trips for toursits
 
 ## Restaurants
 
-* [Wierzynek](https://en.wikipedia.org/wiki/Wierzynek) - the oldest Polish restaurant
+* [Wierzynek](https://en.wikipedia.org/wiki/Wierzynek) - the oldest and most famous Polish restaurant, not sure if that's the best place to go though
+
+* [Chocolate lounge Wedel](https://www.wedelpijalnie.pl/en/chocolaterias?city=Cracow) - highly recommended if you like chocolate
+
+* [Hawelka](http://en.hawelka.pl/) and [Europejska](http://www.europejska.pl/en/) are located in the main square
+
+* [this](http://theculturetrip.com/europe/poland/articles/krakow-s-10-best-cultural-restaurants-from-local-eats-to-fine-dining/) seems to be a sensible list of restaurants serving Polish food in Krakow
