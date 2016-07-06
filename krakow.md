@@ -59,7 +59,9 @@
 
 ## [Kosciuszko Mound]( https://en.wikipedia.org/wiki/Ko%C5%9Bciuszko_Mound)
 
-* good place for a pleasant walk (there are some buses going there too), very nice view over Krakow and nice green surroundings, open till sunset. Best [walk along the river](https://en.wikipedia.org/wiki/Vistulan_Boulevards_in_Krak%C3%B3w) (as long as there is a path), on the same side of the river as Kosciuszko Mound.
+* good place for a pleasant walk (there are some buses going there too), very nice view over Krakow and nice green surroundings, open till sunset
+
+* you can [walk along the river](https://en.wikipedia.org/wiki/Vistulan_Boulevards_in_Krak%C3%B3w) (as long as there is a path), on the same side of the river as Kosciuszko Mound or walk through famous [Blonia Park](https://en.wikipedia.org/wiki/B%C5%82onia), which is actually a big meadow
 
 ## Other
 
