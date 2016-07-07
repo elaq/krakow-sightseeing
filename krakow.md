@@ -83,6 +83,6 @@
 
 * [Pod Aniolami](http://www.podaniolami.pl/en) - close to the main square, looks particularly good, but I've never been here
 
-* [Hawelka](http://en.hawelka.pl/) and [Europejska](http://www.europejska.pl/en/) are located in the main square
+* [Pod Wawelem. Kompania Kuflowa](http://www.podwawelem.eu/) - looks promising too
 
-* [this](http://theculturetrip.com/europe/poland/articles/krakow-s-10-best-cultural-restaurants-from-local-eats-to-fine-dining/) seems to be a sensible list of restaurants
+* [Hawelka](http://en.hawelka.pl/) and [Europejska](http://www.europejska.pl/en/) are located in the main square and are quite popular
