@@ -73,7 +73,7 @@
 
 * [Tyniec](https://en.wikipedia.org/wiki/Tyniec) - it's actually a part of Krakow, but it's quite far and it's not a top attraction. I put it here to make the story complete :-)
 
-* [Auschwitz](https://en.wikipedia.org/wiki/Auschwitz_concentration_camp) - around 1h by car from Krakow, there are plenty of companies that organize trips for toursits
+* [Auschwitz](https://en.wikipedia.org/wiki/Auschwitz_concentration_camp) - around 1h by car from Krakow, there are plenty of companies that organize trips for toursits, it's a full day trip though
 
 ## Restaurants
 
