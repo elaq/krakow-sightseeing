@@ -4,7 +4,7 @@
 
 * [bbc forecast](http://www.bbc.co.uk/weather/3094802)
 
-* [public transport in Krakow](http://krakow.jakdojade.pl/)
+* transport: [public](http://krakow.jakdojade.pl/) and [Wawel taxi](https://connections.swissbank.com/docs/DOC-18490) (recommended by UBS)
 
 * [Polish language](http://www.bbc.co.uk/languages/polish/soap/facts.shtml)
 
