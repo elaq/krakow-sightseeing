@@ -29,7 +29,7 @@
 
 * [Juliusz Slowacki Theatre](https://en.wikipedia.org/wiki/Juliusz_S%C5%82owacki_Theatre)
 
-* [Jagiellonian University](https://en.wikipedia.org/wiki/Jagiellonian_University) - main campus of the oldest Polish university (I think it's not very impressive though, so it's not a must-see), established in 1364
+* [Jagiellonian University](https://en.wikipedia.org/wiki/Jagiellonian_University) - main campus of the oldest Polish university established in 1364; the oldest building is [Collegium Maius](https://en.wikipedia.org/wiki/Collegium_Maius)
 
 * [Planty Park](https://en.wikipedia.org/wiki/Planty_Park) - just a dozen of trees around the old town, but it's very famous :-)
 
