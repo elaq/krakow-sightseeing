@@ -10,6 +10,7 @@
 
 * Polish [dishes](https://www.buzzfeed.com/jessicamisener/proof-polish-food-isnt-all-disgusting) and [ingredients](http://www.tastingpoland.com/food/polish_food_ingredients.html)
 
+* Google [map](https://drive.google.com/open?id=1bkDZdIxRUfFj9f8X1sl6CFrEhck&usp=sharing) with my markers :-)
 
 ## [Old town](https://en.wikipedia.org/wiki/Krak%C3%B3w_Old_Town)
 
