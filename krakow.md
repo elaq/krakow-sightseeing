@@ -15,9 +15,9 @@
 
 #### [Main square](https://en.wikipedia.org/wiki/Main_Square,_Krak%C3%B3w)
 
-* [Sukiennice](https://en.wikipedia.org/wiki/Krak%C3%B3w_Cloth_Hall) - "cloth hall"; there is a nice, small gallery of Polish art here, open till 8pm on Thursday
+* [Sukiennice](https://en.wikipedia.org/wiki/Krak%C3%B3w_Cloth_Hall) - the cloth hall; there is a nice, small gallery of Polish art here, open till 8pm on Thursday
 
-* [St Mary's Church](https://en.wikipedia.org/wiki/St._Mary%27s_Basilica,_Krak%C3%B3w) with an impressive [altar](https://en.wikipedia.org/wiki/File:Altar_of_Veit_Stoss,_St._Mary%27s_Church,_Krakow,_Poland.jpg) by [Veit Stoss](https://en.wikipedia.org/wiki/Veit_Stoss). Church is open till 6pm. There is an ["anthem"](https://en.wikipedia.org/wiki/St._Mary%27s_Trumpet_Call) being played every hour from the tower of this church.
+* [St. Mary's Church](https://en.wikipedia.org/wiki/St._Mary%27s_Basilica,_Krak%C3%B3w) with an impressive [altar](https://en.wikipedia.org/wiki/File:Altar_of_Veit_Stoss,_St._Mary%27s_Church,_Krakow,_Poland.jpg) by [Veit Stoss](https://en.wikipedia.org/wiki/Veit_Stoss). Church is open till 6pm. There is an ["anthem"](https://en.wikipedia.org/wiki/St._Mary%27s_Trumpet_Call) being played every hour from the tower of this church.
 
 * [Museum under the main square](https://en.wikipedia.org/wiki/Rynek_Underground_permanent_exhibition) - a very popular museum, I don't recommend it though. The only part I found interesting were movies about history of Poland at the end of exhibition.
 
