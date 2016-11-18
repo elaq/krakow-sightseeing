@@ -86,4 +86,4 @@
 
 * [Hawelka](http://en.hawelka.pl/) and [Europejska](http://www.europejska.pl/en/) - located in the main square and quite popular
 
-* other like: [Pod Aniolami](http://www.podaniolami.pl/en), [Pod Wawelem. Kompania Kuflowa](http://www.podwawelem.eu/)
+* [Pod Aniolami](http://www.podaniolami.pl/en), [Pod Wawelem. Kompania Kuflowa](http://www.podwawelem.eu/)
