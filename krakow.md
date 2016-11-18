@@ -42,17 +42,17 @@
 
 * don't miss the [rennaisance courtyard](https://en.wikipedia.org/wiki/Wawel#/media/File:Wawel_Krakow_June_2006_002.jpg)
 
-* [Lady with an Ermine](https://en.wikipedia.org/wiki/Lady_with_an_Ermine) is on display here. It's probably one of the most famous piece of art in Poland (the opening hours are short I suppose)
+* [Lady with an Ermine](https://en.wikipedia.org/wiki/Lady_with_an_Ermine) is on display here. It's probably one of the most famous piece of art in Poland
 
 * nice view over Krakow and Vistula river from the hill
 
 #### [Wawel Cathedral](https://en.wikipedia.org/wiki/Wawel_Cathedral)
 
-* worth to visit, many Polish kings are buried here. The cathedral gets closed at 5pm, but the website says there is a mass at 5:30pm, so it's probably possible to enter during the mass.
+* definitely worth to visit, many Polish kings are buried here. The cathedral gets closed at 5pm, but the website says there is a mass at 5:30pm, so it's probably possible to enter during the mass.
 
 #### [Wawel Dragon](https://en.wikipedia.org/wiki/Wawel_Dragon)
 
-* sculpture by Vistula river (below the hill). It's a "symbol of Krakow", the sculpture is not very impressive though, it breathes with fire from time to time :-)
+* sculpture by Vistula river (below the hill). It's a "symbol of Krakow", it breathes fire from time to time.
 
 ## [Kazimierz (Jewish district)](https://en.wikipedia.org/wiki/Kazimierz)
 
@@ -70,20 +70,20 @@
 
 #### Near Krakow
 
-* [Wieliczka salt mine](https://en.wikipedia.org/wiki/Wieliczka_Salt_Mine) - open 7:30-19:30, if you have time in the evening, this is one of the top attractions close to Krakow. You should definitely buy a ticket in advance.
+* [Wieliczka salt mine](https://en.wikipedia.org/wiki/Wieliczka_Salt_Mine) - this is one of the top attractions close to Krakow. You should definitely buy a ticket in advance.
 
-* [Tyniec](https://en.wikipedia.org/wiki/Tyniec) - it's actually a part of Krakow, but it's quite far and it's not a top attraction. I put it here to make the story complete :-)
+* [Tyniec](https://en.wikipedia.org/wiki/Tyniec) - quite far from the city centre. Maybe it's not a top attraction, but worth to see. I put it here to make the story complete.
 
-* [Auschwitz](https://en.wikipedia.org/wiki/Auschwitz_concentration_camp) - around 1h by car from Krakow, there are plenty of companies that organize trips for toursits, it's a full day trip though
+* [Auschwitz](https://en.wikipedia.org/wiki/Auschwitz_concentration_camp) - around 1h by car from Krakow. There are plenty of companies that organize trips for toursits, it's a full-day trip.
 
 ## Restaurants
 
 * [Wierzynek](http://en.wierzynek.pl/) - the oldest and most famous Polish restaurant, not sure if that's the best place to go though
 
+* [Il Calzone](http://www.ilcalzone.pl/en/) - 5-10 mins on foot from the main square, in a quiet area, reasonable prices and good italian cuisine
+
 * [Chocolate lounge Wedel](https://www.wedelpijalnie.pl/en/chocolaterias?city=Cracow) - highly recommended if you like chocolate
 
-* [Pod Aniolami](http://www.podaniolami.pl/en) - close to the main square, looks particularly good, but I've never been here
+* [Hawelka](http://en.hawelka.pl/) and [Europejska](http://www.europejska.pl/en/) - located in the main square and quite popular
 
-* [Pod Wawelem. Kompania Kuflowa](http://www.podwawelem.eu/) - looks promising too
-
-* [Hawelka](http://en.hawelka.pl/) and [Europejska](http://www.europejska.pl/en/) are located in the main square and are quite popular
+* other like: [Pod Aniolami](http://www.podaniolami.pl/en), [Pod Wawelem. Kompania Kuflowa](http://www.podwawelem.eu/)
