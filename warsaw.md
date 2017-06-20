@@ -10,8 +10,6 @@
 
 * Polish [dishes](https://www.buzzfeed.com/jessicamisener/proof-polish-food-isnt-all-disgusting) and [ingredients](http://www.tastingpoland.com/food/polish_food_ingredients.html)
 
-
-
 ## History
 
 * interesting reading on history of Warsaw: [1](http://www.localhistories.org/warsaw.html), [2](https://www.theguardian.com/society/2016/oct/25/meet-poles-who-went-home-warsaw-london-poland-return)
@@ -24,9 +22,22 @@
 
 #### [Market Place](https://en.wikipedia.org/wiki/Old_Town_Market_Place,_Warsaw)
 
-#### Other (close to the main square)
+#### Other
 
 ## [Łazienki park](https://en.wikipedia.org/wiki/Łazienki_Park)
+
+## [Wilanów](https://en.wikipedia.org/wiki/Wilanów)
+
+## [Warsaw University Library](https://en.wikipedia.org/wiki/Warsaw_University_Library)
+
+## Museums worth visiting
+
+#### Museum of Warsaw Uprising
+
+#### Museum of Polish Jews (Polin)
+
+
+#### 
 
 #### Near Warsaw
 
