@@ -2,9 +2,9 @@
 
 ## Info
 
-* [BBC forecast](http://www.bbc.co.uk/weather/3094802)
+* [BBC forecast](http://www.bbc.com/weather/756135)
 
-* transport: [public](http://krakow.jakdojade.pl/) and taxi (e.g. Wawel taxi, tel. +48 12 266 66 66, +48 12 196 66; I hope they speak English!). Avoid taking random taxis from the street - some companies are not playing fair and charge twice as much or even more.
+* transport: [public](http://warszawa.jakdojade.pl/) and Uber or taxi (I hope they speak English!). Avoid taking random taxis from the street - some companies are not playing fair and charge twice as much or even more.
 
 * [Polish language](http://www.bbc.co.uk/languages/polish/soap/facts.shtml)
 
@@ -16,7 +16,7 @@
 
 #### Other (close to the main square)
 
-## [Łazienki park]()
+## [Łazienki park]
 
 #### Near Warsaw
 
