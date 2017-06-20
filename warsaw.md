@@ -10,13 +10,13 @@
 
 * Polish [dishes](https://www.buzzfeed.com/jessicamisener/proof-polish-food-isnt-all-disgusting) and [ingredients](http://www.tastingpoland.com/food/polish_food_ingredients.html)
 
-## [Old town]
+## [Old town](https://en.wikipedia.org/wiki/Warsaw_Old_Town)
 
-#### [Main square]
+#### [Market Place](https://en.wikipedia.org/wiki/Old_Town_Market_Place,_Warsaw)
 
 #### Other (close to the main square)
 
-## [Łazienki park]
+## [Łazienki park](https://en.wikipedia.org/wiki/Łazienki_Park)
 
 #### Near Warsaw
 
