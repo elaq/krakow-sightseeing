@@ -16,7 +16,7 @@
 
 * Saski palace [before WW2](http://fotopolska.eu/foto/173/173259.jpg), [after war](https://www.warszawa.ap.gov.pl/saska/img/08-07.jpg) and [now](http://10bkpanc.wp.mil.pl/plik/image/2015_aktualnosci/09_wrzesien/aktualnosci_201506492.jpg)
 
-* Old Town [before WW2](https://upload.wikimedia.org/wikipedia/commons/0/0c/Warszawa-Rynek_Starego_Miasta-XIX.jpg) and [just after war](http://www.newsweek.pl/g/i.aspx/680/0/newsweek/635750746094732849.jpg), [even more dramatic](https://upload.wikimedia.org/wikipedia/commons/0/0f/Warsaw_Old_Town_1945.jpg)
+* Old Town [before WW2](https://upload.wikimedia.org/wikipedia/commons/0/0c/Warszawa-Rynek_Starego_Miasta-XIX.jpg) and [shortly after the war](https://upload.wikimedia.org/wikipedia/commons/f/fd/Old_Town_Warsaw_waf-2012-1501-31%281945%29.jpg), [even more dramatic](https://upload.wikimedia.org/wikipedia/commons/0/0f/Warsaw_Old_Town_1945.jpg)
 
 ## [Old town](https://en.wikipedia.org/wiki/Warsaw_Old_Town)
 
