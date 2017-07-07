@@ -2,19 +2,21 @@
 
 ## Info
 
-* [BBC forecast](http://www.bbc.com/weather/756135)
+* [BBC weather forecast](http://www.bbc.com/weather/756135)
 
 * Uber or taxis (I'd recommend [Ele Taxi](http://en.eletaxi.pl)). Avoid taking taxis with random logos from the street - some companies are not playing fair and charge twice as much or even more (as far as I know it's not as bad in Warsaw as in Krakow, but be careful :)). You probably should be able to find Ele Taxi at the airport. There is also a train and a bus 175 going from the airport to the main railway station .
 
-* public transport (called ZTM): [tickets](http://www.ztm.waw.pl/index.php?c=110&l=2) (you will need tickets for zone 1 and full fare) | [find the route](http://warszawa.jakdojade.pl/). In terms of tickets - we have a card similar to Oyster, but it's available only for people living in Warsaw. You'll be good with paper tickets. There are ticket machines in some buses/trains, but it's probably safer to buy the tickets earlier in any newsagent's e.g. you can find some in the main hall at the main railway station. Rememeber to validate the paper ticket once you get on a bus/tram! If you buy a daily ticket, then you need to validate it only once on your first journey. You can buy the tickets with a mobile app too. I use the one called SkyCash ([Android](https://play.google.com/store/apps/details?id=com.skycash.beta) and [ios](https://itunes.apple.com/pl/app/skycash/id320226186) - I'm not sure if it's transalted into English though...
+* public transport (called ZTM): [tickets](http://www.ztm.waw.pl/index.php?c=110&l=2) and website, where you can [find the route](http://warszawa.jakdojade.pl/). You will need paper tickets for zone 1. There are ticket machines in some buses/trains, but it's probably safer to buy the tickets earlier in any newsagent's e.g. you can find some in the main hall at the main railway station. Rememeber to validate the paper ticket once you get on a bus/tram and before entering the underground. If you buy a daily ticket, then you need to validate it only once on your first journey. You can buy the tickets with a mobile app too. I use the one called SkyCash ([Android](https://play.google.com/store/apps/details?id=com.skycash.beta) and [ios](https://itunes.apple.com/pl/app/skycash/id320226186) - I'm not sure if it's transalted into English though...
 
-* [train tickets](https://www.intercity.pl/en/site/for-passengers/information/journey-planner.html) - the main railway station is called Warszawa Centralna. Polish railways are called PKP Intercity. You can buy tickets both online and at the railway station - better to buy them in advance!
+* [train tickets](https://www.intercity.pl/en/site/for-passengers/information/journey-planner.html) - the main railway station is called Warszawa Centralna. Polish railways are called PKP Intercity. You can buy tickets both online and at the railway station - it's better to buy them in advance (because they are cheaper and some trains are full).
 
 * [Polish language](http://www.bbc.co.uk/languages/polish/soap/facts.shtml)
 
 * Polish [dishes](https://www.buzzfeed.com/jessicamisener/proof-polish-food-isnt-all-disgusting) and [ingredients](http://www.tastingpoland.com/food/polish_food_ingredients.html)
 
 * Don't be surprised to meet people not speaking English at all or sepaking very poorly. Most of people above 40 years old may not speak English well as they learned Russian at school. Most of young people do speak English on a decent level.
+
+* Google [map](https://drive.google.com/open?id=17fp24uhcgS7CwDM9EwIFZE7XwBw&usp=sharing) with my markers :-)
 
 ## History
 
@@ -28,9 +30,15 @@
 
 ## [Old town](https://en.wikipedia.org/wiki/Warsaw_Old_Town)
 
-##
+#### [Nowy Świat](https://en.wikipedia.org/wiki/Nowy_Świat_Street) and [Krakowskie Przedmieście](https://en.wikipedia.org/wiki/Krakowskie_Przedmieście)
+
+* it's formally not a part of the Old Town, but it's all connected - I'd recommend you to go for a walk starting from the beginning of Nowy Świat Street, through Krakowskie Przedmieście and ending up in the Old Town
+
+#### [Royal Castle]
 
 #### [Market Place](https://en.wikipedia.org/wiki/Old_Town_Market_Place,_Warsaw)
+
+
 
 #### Other
 
@@ -67,5 +75,7 @@
 * [Spazza Napoli](http://spaccanapoli.pl/en/) - I've heard they have the best pizza in Warsaw
 
 * [Sphinx](http://www.sphinx.pl) - chain restaurants, popular in shopping malls; looks like they don't have English website
+
+* cafes: Blikle at Nowy Świat is really good (known for their ["pączek"](http://www.blikle.pl/wp-content/uploads/2016/11/paczek2.jpg) with rose filling) and Wedel (you can find it in shopping malls, but the oldest cafe is at Szpitalna Street) - they are known for their hot chocholate
 
 * generally the old town and Krakowskie Przedmieście are full of restaurants and probably most of them are not bad :-) Polish food is really good, give it a try!
