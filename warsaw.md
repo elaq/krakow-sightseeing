@@ -28,6 +28,8 @@
 
 ## [Old town](https://en.wikipedia.org/wiki/Warsaw_Old_Town)
 
+##
+
 #### [Market Place](https://en.wikipedia.org/wiki/Old_Town_Market_Place,_Warsaw)
 
 #### Other
@@ -44,7 +46,6 @@
 
 #### Museum of Polish Jews (Polin)
 
-
 #### 
 
 #### Trips
@@ -53,8 +54,18 @@
 
 * [Gdańsk](https://en.wikipedia.org/wiki/Tricity,_Poland) - also a very nice and big city at the seaside, there are 2 other cities nearby called Gdynia (with a harbour) and Sopot (with a nice, sandy beach). I can recommend you to get off the train either in Gdansk (for sightseeing) or in Sopot (for sunbathing :-)). It takes around 2 hours 45 minutes to get to Gdansk and 3 hours 5 minutes to get to Sopot. The train is similar to the one that goes to Krakow.
 
-* [Częstochowa](https://pl.wikipedia.org/wiki/Częstochowa) - my home town, city with an old monastery and nice [surroundings](https://en.wikipedia.org/wiki/Olsztyn_Castle_(Silesian_Voivodeship)), but this time please better go to Krakow instead :-)
+* [Częstochowa](https://en.wikipedia.org/wiki/Częstochowa) - my home town, city with an old monastery and nice [surroundings](https://en.wikipedia.org/wiki/Olsztyn_Castle_(Silesian_Voivodeship)), but this time please better go to Krakow instead! :-)
 
-* unfortunately there are no places worth visiting very close to Warsaw... Maybe the one worth mentioning is [Żelazowa Wola](https://en.wikipedia.org/wiki/Żelazowa_Wola) with a very nice park. This is the place where Frederic Chopin was born, however, getting there from Warsaw with a publich transport would be almost impossible in a decent time so I defeinitely don't recommend it :-)
+* unfortunately there are no places worth visiting very close to Warsaw... The one worth a mention is [Żelazowa Wola](https://en.wikipedia.org/wiki/Żelazowa_Wola) with a very nice park. This is the place where Frederic Chopin was born, however, getting there from Warsaw with a publich transport would be terrible so I defeinitely don't recommend you going there.
 
 ## Restaurants
+
+* [Czerwony Wieprz](http://www.czerwonywieprz.pl/en) (en. Red Hog) - I haven't been there for a long time, but it used to be a very good restaurant arranged in a "communist" style and serving traditional Polish food
+
+* [Va Piano](http://pl.vapiano.com/en/welcome/) - Italian food. I tried it in London first, very good for a quick and tasty dinner
+
+* [Spazza Napoli](http://spaccanapoli.pl/en/) - I've heard they have the best pizza in Warsaw
+
+* [Sphinx](http://www.sphinx.pl) - chain restaurants, popular in shopping malls; looks like they don't have English website
+
+* generally the old town and Krakowskie Przedmieście are full of restaurants and probably most of them are not bad :-) Polish food is really good, give it a try!
