@@ -75,11 +75,11 @@ I'd recommend you to go for a walk starting from the beginning of Nowy Świat St
 
 #### [Łazienki park](https://en.wikipedia.org/wiki/Łazienki_Park)
 
-* most famous park in Warsaw with a [Chopin statue](https://en.wikipedia.org/wiki/Chopin_Statue,_Warsaw)
+* most famous park in Warsaw (you can meet a peacock here!) with a [Chopin statue](https://en.wikipedia.org/wiki/Chopin_Statue,_Warsaw)
 
 * Chopin concerts take place regularly near the Chopin statue (e.g. on 16th July at noon and 4 pm)
 
-* you can meet a peacock here!
+* [Belweder](https://en.wikipedia.org/wiki/Belweder) - next to the Park there is a palace called Belweder used as an official residence by Polish presidents in the past
 
 #### [Wilanów](https://en.wikipedia.org/wiki/Wilanów)
 
