@@ -39,6 +39,10 @@
 
 #### 
 
-#### Near Warsaw
+#### Trips
+
+## [Kraków](https://github.com/elaq/sightseeing/blob/master/krakow.md) - unfortunately there must be some railway works on the way to Krakow, because it takes around 1 hour longer to get to Krakow than usual... It's around 3 hours 25 minutes to get there (one-way), which makes it probably too far for a one-day trip (?). On the other hand, the train is quite comfortable and the restaurant coach is a part of the train, so you can have a decent breakfast/dinner without losing time. 4 hours in Krakow should be enough to see most famous places (they are all within 30 minutes on foot from the railway station). If you are not planning to come to Poland again soon then you may want to give it a try as many people claim Krakow is the most beautiful Polish city. If you would like to spend the whole weekend in Krakow, I can recommend you quite new Ibis hotels very close to the railway station (there is a cheap but not bad Ibis Budget and a regular Ibis hotel at Pawia Street).
+
+## Gdańsk
 
 ## Restaurants
