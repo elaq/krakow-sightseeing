@@ -61,7 +61,7 @@ I'd recommend you to go for a walk starting from the beginning of Nowy Świat St
 
 * [St. John's Archcathedral](https://en.wikipedia.org/wiki/St._John%27s_Archcathedral,_Warsaw)
 
-* [Market Place](https://en.wikipedia.org/wiki/Old_Town_Market_Place,_Warsaw)
+* [Market Place](https://en.wikipedia.org/wiki/Old_Town_Market_Place,_Warsaw) - with [Mermaid statue](https://en.wikipedia.org/wiki/Mermaid_of_Warsaw), which is a symbol of Warsaw
 
 * [Barbican](https://en.wikipedia.org/wiki/Warsaw_Barbican)
 
@@ -82,10 +82,6 @@ I'd recommend you to go for a walk starting from the beginning of Nowy Świat St
 ## [Multimedia Fountain Park](http://www.warsawtour.pl/en/tourist-attractions/multimedia-fountain-park-multimedialny-park-fontann-161002.html)
 
 * if you fancy a fountains laser show, it's there for you at 9:30 pm on Friday and Saturday :-) the fountain is not huge, but the [show](https://www.youtube.com/watch?v=x0AnDdRTXe0) is not bad
-
-## [Syrenka](https://en.wikipedia.org/wiki/Mermaid_of_Warsaw)
-
-* a symbol of Warsaw, you can find one in the Market Place in the Old Town and a bigger on on the Vistula bank
 
 ## [ZOO](https://en.wikipedia.org/wiki/Warsaw_Zoo)
 
