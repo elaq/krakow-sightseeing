@@ -89,11 +89,17 @@ I'd recommend you to go for a walk starting from the beginning of Nowy Świat St
 
 ## Museums worth visiting
 
-#### Museum of Warsaw Uprising
+#### [Warsaw Uprising Museum](https://en.wikipedia.org/wiki/Warsaw_Uprising_Museum)
 
-## National Museum
+* definitely worth visiting, this is their [website](http://www.1944.pl/en)
 
-#### Museum of Polish Jews (Polin)
+#### National Museum
+
+#### [Museum of Polish Jews (Polin)](https://en.wikipedia.org/wiki/POLIN_Museum_of_the_History_of_Polish_Jews)
+
+* I haven't been there yet, so I cannot say a lot about it.
+
+* their [website](http://www.polin.pl/en)
 
 ## Trips outside of Warsaw
 
@@ -117,6 +123,6 @@ I'd recommend you to go for a walk starting from the beginning of Nowy Świat St
 
 * cafes: Blikle at Nowy Świat Street is really good (known for their ["pączek"](http://www.blikle.pl/wp-content/uploads/2016/11/paczek2.jpg) with rose filling) and Wedel (you can find them in shopping malls, but the oldest cafe is at Szpitalna Street) - they are known for their hot chocholate
 
-* in terms of pubs - there are a lot of new pubs at the Vistula bank, they are very crowded during the weekend, so probably it's better to go there during the week, e.g. ["Cud Nad Wisłą"](http://cudnadwisla.com)
+* in terms of pubs - there are a lot of new nice pubs at the Vistula bank. They are very crowded during the weekend, so probably it's better to go there during the week, e.g. ["Cud Nad Wisłą"](http://cudnadwisla.com)
 
 * generally the old town and Krakowskie Przedmieście are full of restaurants and probably most of them are not bad :-) Polish food is really good, give it a try!
