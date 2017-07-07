@@ -45,6 +45,8 @@ I'd recommend you to go for a walk starting from the beginning of Nowy Świat St
 
 #### [Nowy Świat Street](https://en.wikipedia.org/wiki/Nowy_Świat_Street) and [Krakowskie Przedmieście Street](https://en.wikipedia.org/wiki/Krakowskie_Przedmieście)
 
+* [Nicolaus Copernicus Monument](https://en.wikipedia.org/wiki/Nicolaus_Copernicus_Monument,_Warsaw)
+
 * [Holy Cross Church](https://en.wikipedia.org/wiki/Holy_Cross_Church,_Warsaw) - you'll pass a couple of churches, but this one is probably the most famous one in Warsaw. Chopin's heart is buried here in one of the pillars.
 
 * [Presidential Palace](https://en.wikipedia.org/wiki/Presidential_Palace,_Warsaw)
@@ -63,7 +65,7 @@ I'd recommend you to go for a walk starting from the beginning of Nowy Świat St
 
 * [Market Place](https://en.wikipedia.org/wiki/Old_Town_Market_Place,_Warsaw) - with [Mermaid statue](https://en.wikipedia.org/wiki/Mermaid_of_Warsaw), which is a symbol of Warsaw
 
-* [Statue of "Little Insurrectionist"](https://en.wikipedia.org/wiki/Mały_Powstaniec) - a small statue, but with a touching story
+* [Little Insurgent Monument](https://en.wikipedia.org/wiki/Mały_Powstaniec) - a small statue, but with a touching story
 
 * [Barbican](https://en.wikipedia.org/wiki/Warsaw_Barbican)
 
