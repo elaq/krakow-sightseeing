@@ -143,7 +143,7 @@ I'd recommend you to go for a walk starting from the beginning of Nowy Świat St
 
 * [Va Piano](http://pl.vapiano.com/en/welcome/) - Italian food. I tried it in London first, very good for a quick and tasty dinner
 
-* [Spazza Napoli](http://spaccanapoli.pl/en/) - I've heard they have the best pizza in Warsaw
+* [Spacca Napoli](http://spaccanapoli.pl/en/) - I've heard they have the best pizza in Warsaw
 
 * [Sphinx](http://www.sphinx.pl) - chain restaurants, popular in shopping malls; looks like they don't have English website
 
