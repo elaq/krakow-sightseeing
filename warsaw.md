@@ -40,17 +40,28 @@
 
 * [Złote Tarasy](https://en.wikipedia.org/wiki/Złote_Tarasy) - shopping mall in the city centre with an interesting look
 
-## [Old town](https://en.wikipedia.org/wiki/Warsaw_Old_Town)
+## Old Warsaw
+I'd recommend you to go for a walk starting from the beginning of Nowy Świat Street, through Krakowskie Przedmieście and ending up in the Old Town
 
-#### [Nowy Świat](https://en.wikipedia.org/wiki/Nowy_Świat_Street) and [Krakowskie Przedmieście](https://en.wikipedia.org/wiki/Krakowskie_Przedmieście)
+#### [Nowy Świat Street](https://en.wikipedia.org/wiki/Nowy_Świat_Street) and [Krakowskie Przedmieście Street](https://en.wikipedia.org/wiki/Krakowskie_Przedmieście)
 
-* it's formally not a part of the Old Town, but it's all connected - I'd recommend you to go for a walk starting from the beginning of Nowy Świat Street, through Krakowskie Przedmieście and ending up in the Old Town
+* [Holy Cross Church](https://en.wikipedia.org/wiki/Holy_Cross_Church,_Warsaw) - you'll pass a couple of churches, but this one is probably the most famous one in Warsaw. Chopin's heart is buried here in one of the pillars.
 
-#### [Royal Castle]
+* [Presidential Palace](https://en.wikipedia.org/wiki/Presidential_Palace,_Warsaw)
 
-#### [Market Place](https://en.wikipedia.org/wiki/Old_Town_Market_Place,_Warsaw)
+* [Pilsudski Square](https://en.wikipedia.org/wiki/Piłsudski_Square) with [Tomb of the Unknown Soldier](https://en.wikipedia.org/wiki/Tomb_of_the_Unknown_Soldier_(Warsaw)) and [National Theatre](https://en.wikipedia.org/wiki/National_Theatre,_Warsaw) - they are not directly at Nowy Świat Street, but very close to it
 
+#### [Castle Square](https://en.wikipedia.org/wiki/Castle_Square,_Warsaw)
 
+* [Royal Castle](https://en.wikipedia.org/wiki/Royal_Castle,_Warsaw) - it was rebuilt after WW2 in seventies, but looks identical to the previous one :-)
+
+* [Sigismund's Column](https://en.wikipedia.org/wiki/Sigismund%27s_Column)
+
+#### [Old Town](https://en.wikipedia.org/wiki/Warsaw_Old_Town)
+
+* [St. John's Archcathedral](https://en.wikipedia.org/wiki/St._John%27s_Archcathedral,_Warsaw)
+
+* [Market Place](https://en.wikipedia.org/wiki/Old_Town_Market_Place,_Warsaw)
 
 #### Other
 
