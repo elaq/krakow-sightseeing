@@ -83,7 +83,7 @@ I'd recommend you to go for a walk starting from the beginning of Nowy Świat St
 
 * [Belweder](https://en.wikipedia.org/wiki/Belweder) - next to the Park there is a palace called Belweder used as an official residence by Polish presidents in the past
 
-#### [Wilanów](https://en.wikipedia.org/wiki/Wilanów)
+#### [Wilanów park](https://en.wikipedia.org/wiki/Wilanów)
 
 * another big and nice park with a palace, quite far from the city centre though, so worth a visit only if you have spare time
 
