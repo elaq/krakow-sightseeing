@@ -143,7 +143,7 @@ I'd recommend you to go for a walk starting from the beginning of Nowy Świat St
 
 * [Czerwony Wieprz](http://www.czerwonywieprz.pl/en) (Red Hog) - I haven't been there for a long time, but it used to be a very good restaurant arranged in a "communist" style and serving traditional Polish food
 
-* [Va Piano](http://pl.vapiano.com/en/welcome/) - Italian food. I tried it in London first, very good for a quick and tasty dinner
+* [Vapiano](http://pl.vapiano.com/en/welcome/) - Italian food. I tried it in London first, very good for a quick and tasty dinner
 
 * [Spacca Napoli](http://spaccanapoli.pl/en/) - I've heard they have the best pizza in Warsaw
 
