@@ -45,7 +45,7 @@ I'd recommend you to go for a walk starting from the beginning of Nowy Świat St
 
 #### [Nowy Świat Street](https://en.wikipedia.org/wiki/Nowy_Świat_Street) and [Krakowskie Przedmieście Street](https://en.wikipedia.org/wiki/Krakowskie_Przedmieście)
 
-* [Nicolaus Copernicus Monument](https://en.wikipedia.org/wiki/Nicolaus_Copernicus_Monument,_Warsaw)
+* [Staszic Palace](https://en.wikipedia.org/wiki/Staszic_Palace) and [Nicolaus Copernicus Monument](https://en.wikipedia.org/wiki/Nicolaus_Copernicus_Monument,_Warsaw)
 
 * [Holy Cross Church](https://en.wikipedia.org/wiki/Holy_Cross_Church,_Warsaw) - you'll pass a couple of churches, but this one is probably the most famous one in Warsaw. Chopin's heart is buried here in one of the pillars.
 
