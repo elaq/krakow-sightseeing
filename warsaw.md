@@ -143,6 +143,8 @@ I'd recommend you to go for a walk starting from the beginning of Nowy Świat St
 
 * [Sphinx](http://www.sphinx.pl) - chain restaurants, popular in shopping malls; looks like they don't have English website
 
+* [Hala Koszyki](https://www.koszyki.com/home-en-us/) - new food court in a recently renovated market hall, highly recommended
+
 * cafes: Blikle at Nowy Świat Street is really good (known for their ["pączek"](http://www.blikle.pl/wp-content/uploads/2016/11/paczek2.jpg) with rose filling) and Wedel (you can find them in shopping malls, but the oldest cafe is at Szpitalna Street) - they are known for their hot chocholate
 
 * in terms of pubs - there are a lot of new nice pubs at the Vistula bank. They are very crowded during the weekend, so probably it's better to go there during the week, e.g. ["Cud Nad Wisłą"](http://cudnadwisla.com)
