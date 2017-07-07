@@ -4,13 +4,13 @@
 
 * [BBC weather forecast](http://www.bbc.com/weather/756135)
 
-* Uber or taxis (I'd recommend [Ele Taxi](http://en.eletaxi.pl)). Avoid taking taxis with random logos from the street - some companies are not playing fair and charge twice as much or even more (as far as I know it's not as bad in Warsaw as in Krakow, but be careful). You probably should be able to find Ele Taxi at the airport. There is also a train and a bus 175 going from the airport to the main railway station .
+* transport with Uber or taxis. I'd recommend [Ele Taxi](http://en.eletaxi.pl). Rather avoid taking random taxis with from the street - some companies are not playing fair and charge too much. You probably should be able to find Ele Taxi at the airport. There is also a train and a bus 175 going from the airport to the main railway station .
 
-* public transport (called ZTM): [tickets](http://www.ztm.waw.pl/index.php?c=110&l=2) and [here you can find the route](http://warszawa.jakdojade.pl/). You will need paper tickets for zone 1. There are ticket machines in some buses/trains, but it's probably safer to buy the tickets earlier in any newsagent's e.g. you can find some in the main hall at the main railway station. Rememeber to validate the paper ticket once you get on a bus/tram and before entering the underground. If you buy a daily ticket, then you need to validate it only once on your first journey. You can buy the tickets with a mobile app too. I use the one called SkyCash ([Android](https://play.google.com/store/apps/details?id=com.skycash.beta) and [ios](https://itunes.apple.com/pl/app/skycash/id320226186) - I'm not sure if it's transalted into English though... There are only 2 tube lines in Warsaw, but trams and buses are really good (buses are much faster than in London, especially the ones with numbers starting with "5").
+* public transport (called ZTM): [tickets](http://www.ztm.waw.pl/index.php?c=110&l=2) and [here you can find the route](http://warszawa.jakdojade.pl/). You will need paper tickets for zone 1. There are ticket machines in some buses/trains, but it's probably safer to buy the tickets earlier in any newsagent's. Rememeber to validate the paper ticket once you get on a bus/tram and before entering the underground. If you buy a daily ticket, then you need to validate it only once on your first journey. You can buy the tickets with a mobile app too. I use the app called SkyCash ([Android](https://play.google.com/store/apps/details?id=com.skycash.beta) and [ios](https://itunes.apple.com/pl/app/skycash/id320226186) - I'm not sure if this app is translated into English though... Btw. there are only 2 tube lines in Warsaw, but trams and buses are really good (buses are much faster than in London, especially the ones with numbers starting with "5").
 
-* [train tickets](https://www.intercity.pl/en/site/for-passengers/information/journey-planner.html) - the main railway station is called Warszawa Centralna. Polish railways are called PKP Intercity. You can buy tickets both online and at the railway station - it's better to buy them in advance (because they are cheaper and some trains are full). Make sure you book trains with EIP in their names (avoid TLK, EIC and IC - some of them don't have air conditioning or restaurant coach and they are not as comfortable as EIP).
+* [train tickets](https://www.intercity.pl/en/site/for-passengers/information/journey-planner.html) - the main railway station is called Warszawa Centralna (Central Railway Station). Polish railways are called PKP Intercity. You can buy tickets both online and at the railway station - it's better to buy them in advance, because they are cheaper and some trains may be full. Make sure you book trains with EIP in their names (avoid TLK, EIC and IC - some of them don't have air conditioning or restaurant coach and they are not as comfortable as EIP).
 
-* [Polish language](http://www.bbc.co.uk/languages/polish/soap/facts.shtml). Don't be surprised to meet people not speaking English at all or sepaking very poorly. Most of people above 40 years old may not speak English well as they learned Russian at school. Most of young people do speak English on a decent level.
+* [Polish language](http://www.bbc.co.uk/languages/polish/soap/facts.shtml). Don't be surprised to meet people not speaking English at all or sepaking English very poorly. Most of people above 40 years old may not speak English well as they learned Russian at school. Most of young people do speak English on a decent level.
 
 * Polish [dishes](https://www.buzzfeed.com/jessicamisener/proof-polish-food-isnt-all-disgusting) and [ingredients](http://www.tastingpoland.com/food/polish_food_ingredients.html)
 
@@ -39,7 +39,7 @@
 * [Złote Tarasy](https://en.wikipedia.org/wiki/Złote_Tarasy) - shopping mall in the city centre with an interesting look
 
 ## Old Warsaw
-I'd recommend you to go for a walk starting from the beginning of Nowy Świat Street, through Krakowskie Przedmieście and ending up in the Old Town
+I'd recommend you to go for a walk starting from the beginning of Nowy Świat Street, through Krakowskie Przedmieście and ending up in the Old Town 
 
 #### [Nowy Świat Street](https://en.wikipedia.org/wiki/Nowy_Świat_Street) and [Krakowskie Przedmieście Street](https://en.wikipedia.org/wiki/Krakowskie_Przedmieście)
 
@@ -57,7 +57,7 @@ I'd recommend you to go for a walk starting from the beginning of Nowy Świat St
 
 #### [Castle Square](https://en.wikipedia.org/wiki/Castle_Square,_Warsaw)
 
-* [Royal Castle](https://en.wikipedia.org/wiki/Royal_Castle,_Warsaw) - it was rebuilt after WW2 in seventies, but looks identical to the previous one. There are nice interiors in the Castle and you can visit [it](https://www.zamek-krolewski.pl/en)
+* [Royal Castle](https://en.wikipedia.org/wiki/Royal_Castle,_Warsaw) - it was rebuilt after WW2 in seventies, but looks identical to the previous one. There are nice interiors in the Castle, you may want to visit [it](https://www.zamek-krolewski.pl/en)
 
 * [Sigismund's Column](https://en.wikipedia.org/wiki/Sigismund%27s_Column)
 
@@ -65,19 +65,19 @@ I'd recommend you to go for a walk starting from the beginning of Nowy Świat St
 
 * [St. John's Archcathedral](https://en.wikipedia.org/wiki/St._John%27s_Archcathedral,_Warsaw)
 
-* [Market Place](https://en.wikipedia.org/wiki/Old_Town_Market_Place,_Warsaw) - with [Mermaid statue](https://en.wikipedia.org/wiki/Mermaid_of_Warsaw), which is a symbol of Warsaw
+* [Market Place](https://en.wikipedia.org/wiki/Old_Town_Market_Place,_Warsaw) with [Mermaid statue](https://en.wikipedia.org/wiki/Mermaid_of_Warsaw), which is the symbol of Warsaw
 
 * [Little Insurgent Monument](https://en.wikipedia.org/wiki/Mały_Powstaniec) - a small statue, but with a touching story
 
 * [Barbican](https://en.wikipedia.org/wiki/Warsaw_Barbican)
 
-* if you are not exhausted yet :-), you may also want to see the [Warsaw Uprising Monument](https://en.wikipedia.org/wiki/Warsaw_Uprising_Monument)
+* if you are not exhausted yet, you may also want to see the [Warsaw Uprising Monument](https://en.wikipedia.org/wiki/Warsaw_Uprising_Monument)
 
 ## Other
 
 #### [Łazienki Park](https://en.wikipedia.org/wiki/Łazienki_Park)
 
-* most famous park in Warsaw (you can meet a peacock here!) with a [Chopin statue](https://en.wikipedia.org/wiki/Chopin_Statue,_Warsaw)
+* most famous park in Warsaw (you can meet a peacock here) with a [Chopin statue](https://en.wikipedia.org/wiki/Chopin_Statue,_Warsaw)
 
 * Chopin concerts take place regularly near the Chopin statue (e.g. on 16th July at noon and 4 pm)
 
@@ -89,7 +89,7 @@ I'd recommend you to go for a walk starting from the beginning of Nowy Świat St
 
 #### [Warsaw University Library](https://en.wikipedia.org/wiki/Warsaw_University_Library)
 
-* I think you probably cannoy enter the library if you're not a student or employee of the University, but there is a [nice garden and view](http://www.warsawtour.pl/sites/default/files/imagecache/atrakcja_big/buw_2_fot._pz_studio_1.jpg) on the roof of this library, which are worth a visit
+* I think you probably cannoy enter the library if you're not a student or employee of the University, but there is a [nice garden on the roof and view from the top](http://www.warsawtour.pl/sites/default/files/imagecache/atrakcja_big/buw_2_fot._pz_studio_1.jpg)
 
 * from the roof you can see i.a. the [National Stadium](https://en.wikipedia.org/wiki/National_Stadium,_Warsaw) and [Świętokrzyski Bridge[(https://en.wikipedia.org/wiki/Świętokrzyski_Bridge)
 
@@ -119,7 +119,7 @@ I'd recommend you to go for a walk starting from the beginning of Nowy Świat St
 
 #### [National Museum](https://en.wikipedia.org/wiki/National_Museum,_Warsaw)
 
-* only if you're interested in Polish art! Their [website](http://www.mnw.art.pl/en/)).
+* only if you're interested in Polish art, their [website](http://www.mnw.art.pl/en/)).
 
 #### [Museum of Polish Jews (Polin)](https://en.wikipedia.org/wiki/POLIN_Museum_of_the_History_of_Polish_Jews)
 
@@ -131,7 +131,9 @@ I'd recommend you to go for a walk starting from the beginning of Nowy Świat St
 
 ## Trips outside of Warsaw
 
-* [Kraków](https://github.com/elaq/sightseeing/blob/master/krakow.md) - many people claim Krakow is the most beautiful Polish city. Unfortunately there are some railway works on the way to Krakow, because it takes around 1 hour longer than usual to get to Krakow from Warsaw - around 3 hours 25 minutes (one-way). The train is very comfortable though and have a restaurant coach, so you could have a breakfast/dinner without losing time. If you buy first class ticket you will get a decent meal directly to your seat for free. The 1-class ticket is probably around 30 pounds one-way (the earlier you buy, the cheaper the ticket). 4 hours in Krakow should be enough to see most famous places (they are all within 30 minutes on foot from the railway station). If you would like to spend the whole weekend in Krakow, I can recommend you the Ibis hotel very close to the railway station (at Pawia Street).
+There is a lot to see in Warsaw and you probably won't be bored during your trip, but if you still need more, here are some ideas :-)
+
+* [Kraków](https://github.com/elaq/sightseeing/blob/master/krakow.md) - many people claim Krakow is the most beautiful Polish city. Unfortunately there are some railway works on the way to Krakow, because it takes around 1 hour longer than usual to get to Krakow from Warsaw - around 3 hours 25 minutes (one-way). The train is very comfortable though and have a restaurant coach, so you could have a breakfast/dinner without losing time. If you buy first class ticket you will get a decent meal directly to your seat for free. The 1-class ticket is probably around 30 pounds one-way (the earlier you buy, the cheaper the ticket). 3-4 hours in Krakow should be enough to see most famous places (they are all within 30 minutes on foot from the railway station). If you would like to spend the whole weekend in Krakow, I can recommend you the Ibis hotel very close to the railway station (at Pawia Street).
 
 * [Gdańsk](https://en.wikipedia.org/wiki/Tricity,_Poland) - also a very nice and big city at the seaside, there are 2 other cities nearby called Gdynia (with a harbour) and Sopot (with a nice, sandy beach). I can recommend you to get off the train either in Gdansk (for sightseeing) or in Sopot (for sunbathing :-)). It takes around 2 hours 45 minutes to get to Gdansk and 3 hours 5 minutes to get to Sopot. The train is similar to the one that goes to Krakow.
 
@@ -155,4 +157,4 @@ I'd recommend you to go for a walk starting from the beginning of Nowy Świat St
 
 * in terms of pubs - there are a lot of new nice pubs at the Vistula bank. They are very crowded during the weekend, so probably it's better to go there during the week, e.g. ["Cud Nad Wisłą"](http://cudnadwisla.com)
 
-* generally the old town and Krakowskie Przedmieście are full of restaurants and probably most of them are not bad :-) Polish food is really good, give it a try!
+* generally the old town and Krakowskie Przedmieście Street are full of restaurants and probably most of them are not bad :-) Polish food is really good, give it a try!
