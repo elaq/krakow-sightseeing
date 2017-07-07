@@ -111,7 +111,7 @@ I'd recommend you to go for a walk starting from the beginning of Nowy Świat St
 
 * if you like old-fashioned attractions, that's an interesting thing to see and it's near the central railway station
 
-## Museums worth visiting
+## Museums
 
 #### [Warsaw Uprising Museum](https://en.wikipedia.org/wiki/Warsaw_Uprising_Museum)
 
