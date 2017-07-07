@@ -75,7 +75,9 @@ I'd recommend you to go for a walk starting from the beginning of Nowy Świat St
 
 ## [Warsaw University Library](https://en.wikipedia.org/wiki/Warsaw_University_Library)
 
-## [Centrum Nauki Kopernik]
+## [Copernicus Science Centre](https://en.wikipedia.org/wiki/Copernicus_Science_Centre)
+
+* a nice place to visit, but you may not get as excited about it as children do :-)
 
 ## [Multimedia Fountain Park](http://www.warsawtour.pl/en/tourist-attractions/multimedia-fountain-park-multimedialny-park-fontann-161002.html)
 
@@ -118,5 +120,7 @@ I'd recommend you to go for a walk starting from the beginning of Nowy Świat St
 * [Sphinx](http://www.sphinx.pl) - chain restaurants, popular in shopping malls; looks like they don't have English website
 
 * cafes: Blikle at Nowy Świat Street is really good (known for their ["pączek"](http://www.blikle.pl/wp-content/uploads/2016/11/paczek2.jpg) with rose filling) and Wedel (you can find them in shopping malls, but the oldest cafe is at Szpitalna Street) - they are known for their hot chocholate
+
+* in terms of pubs - there are a lot of new pubs at the Vistula bank, they are very crowded during the weekend, so probably it's better to go there during the week, e.g. ["Cud Nad Wisłą"](http://cudnadwisla.com)
 
 * generally the old town and Krakowskie Przedmieście are full of restaurants and probably most of them are not bad :-) Polish food is really good, give it a try!
