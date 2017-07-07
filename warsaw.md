@@ -51,7 +51,7 @@ I'd recommend you to go for a walk starting from the beginning of Nowy Świat St
 
 * [Presidential Palace](https://en.wikipedia.org/wiki/Presidential_Palace,_Warsaw)
 
-* [Pilsudski Square](https://en.wikipedia.org/wiki/Piłsudski_Square) with [Tomb of the Unknown Soldier](https://en.wikipedia.org/wiki/Tomb_of_the_Unknown_Soldier_(Warsaw)) and [National Theatre](https://en.wikipedia.org/wiki/National_Theatre,_Warsaw) - they are not directly at Nowy Świat Street, but very close to it
+* [Pilsudski Square](https://en.wikipedia.org/wiki/Piłsudski_Square) with [Tomb of the Unknown Soldier](https://en.wikipedia.org/wiki/Tomb_of_the_Unknown_Soldier_(Warsaw)), [Saxon Garden](https://en.wikipedia.org/wiki/Saxon_Garden) and [National Theatre](https://en.wikipedia.org/wiki/National_Theatre,_Warsaw) - they are not directly at Nowy Świat Street, but very close to it
 
 #### [Castle Square](https://en.wikipedia.org/wiki/Castle_Square,_Warsaw)
 
@@ -74,6 +74,8 @@ I'd recommend you to go for a walk starting from the beginning of Nowy Świat St
 #### Other
 
 ## [Łazienki park](https://en.wikipedia.org/wiki/Łazienki_Park)
+
+* most famouse park in Warsaw with a [Chopin statue](https://en.wikipedia.org/wiki/Chopin_Statue,_Warsaw) and 
 
 ## [Wilanów](https://en.wikipedia.org/wiki/Wilanów)
 
