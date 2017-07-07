@@ -51,6 +51,8 @@ I'd recommend you to go for a walk starting from the beginning of Nowy Świat St
 
 * [Pilsudski Square](https://en.wikipedia.org/wiki/Piłsudski_Square) with [Tomb of the Unknown Soldier](https://en.wikipedia.org/wiki/Tomb_of_the_Unknown_Soldier_(Warsaw)), [Saxon Garden](https://en.wikipedia.org/wiki/Saxon_Garden) and [National Theatre](https://en.wikipedia.org/wiki/National_Theatre,_Warsaw) - they are not directly at Nowy Świat Street, but very close to it
 
+* [St. Anne's Church](https://en.wikipedia.org/wiki/St._Anne%27s_Church,_Warsaw) - the reason why I mention it is the [tower](http://www.taraswidokowy.pl/index.php?lang=en) next to the church with a superb view on the Old Town, highly recommended! Their website say the opening hours are 10-21 during the week and 11-22 during the weekend.
+
 #### [Castle Square](https://en.wikipedia.org/wiki/Castle_Square,_Warsaw)
 
 * [Royal Castle](https://en.wikipedia.org/wiki/Royal_Castle,_Warsaw) - it was rebuilt after WW2 in seventies, but looks identical to the previous one. There are nice interiors in the Castle and you can visit [it](https://www.zamek-krolewski.pl/en)
