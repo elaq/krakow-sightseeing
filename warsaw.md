@@ -76,6 +76,6 @@
 
 * [Sphinx](http://www.sphinx.pl) - chain restaurants, popular in shopping malls; looks like they don't have English website
 
-* cafes: Blikle at Nowy Świat Street is really good (known for their ["pączek"](http://www.blikle.pl/wp-content/uploads/2016/11/paczek2.jpg) with rose filling) and Wedel (you can find it in shopping malls, but the oldest cafe is at Szpitalna Street) - they are known for their hot chocholate
+* cafes: Blikle at Nowy Świat Street is really good (known for their ["pączek"](http://www.blikle.pl/wp-content/uploads/2016/11/paczek2.jpg) with rose filling) and Wedel (you can find them in shopping malls, but the oldest cafe is at Szpitalna Street) - they are known for their hot chocholate
 
 * generally the old town and Krakowskie Przedmieście are full of restaurants and probably most of them are not bad :-) Polish food is really good, give it a try!
