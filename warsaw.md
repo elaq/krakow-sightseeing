@@ -63,7 +63,7 @@ I'd recommend you to go for a walk starting from the beginning of Nowy Świat St
 
 * [Market Place](https://en.wikipedia.org/wiki/Old_Town_Market_Place,_Warsaw) - with [Mermaid statue](https://en.wikipedia.org/wiki/Mermaid_of_Warsaw), which is a symbol of Warsaw
 
-* [Statue of "Mały Powstaniec"](https://en.wikipedia.org/wiki/Mały_Powstaniec) - a small statue, but with a very touching story
+* [Statue of "Little Insurrectionist"](https://en.wikipedia.org/wiki/Mały_Powstaniec) - a small statue, but with a touching story
 
 * [Barbican](https://en.wikipedia.org/wiki/Warsaw_Barbican)
 
