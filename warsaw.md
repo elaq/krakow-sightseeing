@@ -56,7 +56,7 @@
 
 * [Częstochowa](https://en.wikipedia.org/wiki/Częstochowa) - my home town, city with an old monastery and nice [surroundings](https://en.wikipedia.org/wiki/Olsztyn_Castle_(Silesian_Voivodeship)), but this time please better go to Krakow instead! :-)
 
-* unfortunately there are no places worth visiting very close to Warsaw... The one worth a mention is [Żelazowa Wola](https://en.wikipedia.org/wiki/Żelazowa_Wola) with a very nice park. This is the place where Frederic Chopin was born, however, getting there from Warsaw with a publich transport would be terrible so I defeinitely don't recommend you going there.
+* unfortunately there are no places worth visiting very close to Warsaw... The one worth a mention is [Żelazowa Wola](https://en.wikipedia.org/wiki/Żelazowa_Wola) with a very nice park. This is the place where Frederic Chopin was born, however, getting there from Warsaw with a publich transport would be terrible so I defeinitely don't recommend you to go there.
 
 ## Restaurants
 
