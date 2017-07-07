@@ -75,7 +75,19 @@ I'd recommend you to go for a walk starting from the beginning of Nowy Świat St
 
 ## [Warsaw University Library](https://en.wikipedia.org/wiki/Warsaw_University_Library)
 
-## Park Fontann
+## [Centrum Nauki Kopernik]
+
+## [Multimedia Fountain Park](http://www.warsawtour.pl/en/tourist-attractions/multimedia-fountain-park-multimedialny-park-fontann-161002.html)
+
+* if you fancy a fountains laser show, it's there for you at 9:30 pm on Friday and Saturday :-) the fountain is not huge, but the [show](https://www.youtube.com/watch?v=x0AnDdRTXe0) is not bad
+
+## [Syrenka](https://en.wikipedia.org/wiki/Mermaid_of_Warsaw)
+
+* a symbol of Warsaw, you can find one in the Market Place in the Old Town and a bigger on on the Vistula bank
+
+## [ZOO](https://en.wikipedia.org/wiki/Warsaw_Zoo)
+
+* if you feel like going to a ZOO, there is a nice one in Warsaw (and with a very bad [website](http://zoo.waw.pl/en/))
 
 ## Museums worth visiting
 
