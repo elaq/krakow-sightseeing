@@ -87,6 +87,8 @@ I'd recommend you to go for a walk starting from the beginning of Nowy Świat St
 
 * I think you probably cannoy enter the library if you're not a student or employee of the University, but there is a [nice garden and view](http://www.warsawtour.pl/sites/default/files/imagecache/atrakcja_big/buw_2_fot._pz_studio_1.jpg) on the roof of this library, which are worth a visit
 
+* from the roof you can see i.a. the [National Stadium](https://en.wikipedia.org/wiki/National_Stadium,_Warsaw) and [Świętokrzyski Bridge[(https://en.wikipedia.org/wiki/Świętokrzyski_Bridge)
+
 #### [Copernicus Science Centre](https://en.wikipedia.org/wiki/Copernicus_Science_Centre)
 
 * a nice place to visit, but you may not get as excited about it as children do :-)
