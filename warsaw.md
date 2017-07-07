@@ -10,6 +10,10 @@
 
 * Polish [dishes](https://www.buzzfeed.com/jessicamisener/proof-polish-food-isnt-all-disgusting) and [ingredients](http://www.tastingpoland.com/food/polish_food_ingredients.html)
 
+* if you make a decision to go somewhere by train, the main railway station is called Warszawa Centralna. Polish railways are called PKP Intercity and here is the [page](https://www.intercity.pl/en/site/for-passengers/information/journey-planner.html) where you can buy tickets (you can buy the ticket online, however, if you encounter any problems with that let me know, I can buy one for you)
+
+* public transport in Warsaw is called ZTM, we have a card similar to Oyster
+
 ## History
 
 * interesting reading on history of Warsaw: [1](http://www.localhistories.org/warsaw.html), [2](https://www.theguardian.com/society/2016/oct/25/meet-poles-who-went-home-warsaw-london-poland-return)
@@ -41,8 +45,8 @@
 
 #### Trips
 
-## [Kraków](https://github.com/elaq/sightseeing/blob/master/krakow.md) - unfortunately there must be some railway works on the way to Krakow, because it takes around 1 hour longer to get to Krakow than usual... It's around 3 hours 25 minutes to get there (one-way), which makes it probably too far for a one-day trip (?). On the other hand, the train is quite comfortable and the restaurant coach is a part of the train, so you can have a decent breakfast/dinner without losing time. 4 hours in Krakow should be enough to see most famous places (they are all within 30 minutes on foot from the railway station). If you are not planning to come to Poland again soon then you may want to give it a try as many people claim Krakow is the most beautiful Polish city. If you would like to spend the whole weekend in Krakow, I can recommend you quite new Ibis hotels very close to the railway station (there is a cheap but not bad Ibis Budget and a regular Ibis hotel at Pawia Street).
+* [Kraków](https://github.com/elaq/sightseeing/blob/master/krakow.md) - unfortunately there must be some railway works on the way to Krakow, because it takes around 1 hour longer to get to Krakow than usual... It's around 3 hours 25 minutes to get there (one-way), which makes it probably too far for a one-day trip (?). On the other hand, the train is comfortable and the restaurant coach is a part of it, so you can have a decent breakfast/dinner without losing time. 4 hours in Krakow should be enough to see most famous places (they are all within 30 minutes on foot from the railway station). If you are not planning to come to Poland again soon then you may want to give it a try as many people claim Krakow is the most beautiful Polish city. If you would like to spend the whole weekend in Krakow, I can recommend you quite new Ibis hotels very close to the railway station (there is a cheap but not bad Ibis Budget and a regular Ibis hotel at Pawia Street).
 
-## Gdańsk
+* [Gdańsk](https://en.wikipedia.org/wiki/Tricity,_Poland) - also a very nice and big city at the seaside, there are 2 other cities nearby called Gdynia (with a harbour) and Sopot (with nice, sandy beaches). I can recommend you to get off the train either in Gdansk (for sightseeing purpose :)) or in Sopot (if the weather is hot and sunny you can enjoy it at the beach :-)). It takes around 2 hours 45 minutes to get to Gdansk and 3 hours 5 minutes to get to Sopot. The train is very similar to the one that goes to Krakow, very comfortable, with restaurant coach and air-conditioning.
 
 ## Restaurants
