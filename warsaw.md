@@ -30,7 +30,7 @@
 
 ## [City Centre](https://en.wikipedia.org/wiki/Śródmieście,_Warsaw)
 
-* many people say it's concrete and ugly and probably they are right. I think it has improved recently, with new skyscrapers and old building renovations though.
+* many people say it's concrete and ugly and probably they are right. I think it has improved recently though, with new skyscrapers and old building renovations it doesn't look that bad.
 
 * [Pałac Kultury i Nauki](https://en.wikipedia.org/wiki/Palace_of_Culture_and_Science) - there are few people saying it should be demolished as it is a gift from Joseph Stalin. It became a "symbol" of Warsaw though and most people cannot imagine the city without it.
 
@@ -55,7 +55,7 @@ I'd recommend you to go for a walk starting from the beginning of Nowy Świat St
 
 #### [Castle Square](https://en.wikipedia.org/wiki/Castle_Square,_Warsaw)
 
-* [Royal Castle](https://en.wikipedia.org/wiki/Royal_Castle,_Warsaw) - it was rebuilt after WW2 in seventies, but looks identical to the previous one :-)
+* [Royal Castle](https://en.wikipedia.org/wiki/Royal_Castle,_Warsaw) - it was rebuilt after WW2 in seventies, but looks identical to the previous one. There are nice interiors in the Castle and you can visit [it](https://www.zamek-krolewski.pl/en)
 
 * [Sigismund's Column](https://en.wikipedia.org/wiki/Sigismund%27s_Column)
 
@@ -69,17 +69,25 @@ I'd recommend you to go for a walk starting from the beginning of Nowy Świat St
 
 * [Barbican](https://en.wikipedia.org/wiki/Warsaw_Barbican)
 
-* if you are not exhausted yet :-), you may also want to see [Warsaw Uprising Monument](https://en.wikipedia.org/wiki/Warsaw_Uprising_Monument)
+* if you are not exhausted yet :-), you may also want to see the [Warsaw Uprising Monument](https://en.wikipedia.org/wiki/Warsaw_Uprising_Monument)
 
 #### Other
 
 ## [Łazienki park](https://en.wikipedia.org/wiki/Łazienki_Park)
 
-* most famouse park in Warsaw with a [Chopin statue](https://en.wikipedia.org/wiki/Chopin_Statue,_Warsaw) and 
+* most famous park in Warsaw with a [Chopin statue](https://en.wikipedia.org/wiki/Chopin_Statue,_Warsaw)
+
+* Chopin concerts take place regularly near the Chopin statue (e.g. on 16th July at noon and 4 pm)
+
+* you can meet a peacock here!
 
 ## [Wilanów](https://en.wikipedia.org/wiki/Wilanów)
 
+* another big and nice park with a palace, quite far from the city centre though, so worth a visit only if you have spare time
+
 ## [Warsaw University Library](https://en.wikipedia.org/wiki/Warsaw_University_Library)
+
+* I think you probably cannoy enter the library if you're not a student or employee of the University, but there is a [nice garden and view](http://www.warsawtour.pl/sites/default/files/imagecache/atrakcja_big/buw_2_fot._pz_studio_1.jpg) on the roof of this library, which are worth a visit
 
 ## [Copernicus Science Centre](https://en.wikipedia.org/wiki/Copernicus_Science_Centre)
 
@@ -87,7 +95,7 @@ I'd recommend you to go for a walk starting from the beginning of Nowy Świat St
 
 ## [Multimedia Fountain Park](http://www.warsawtour.pl/en/tourist-attractions/multimedia-fountain-park-multimedialny-park-fontann-161002.html)
 
-* if you fancy a fountains laser show, it's there for you at 9:30 pm on Friday and Saturday :-) the fountain is not huge, but the [show](https://www.youtube.com/watch?v=x0AnDdRTXe0) is not bad
+* if you fancy a fountains laser show, it's there for you at 9:30 pm on Friday and Saturday. The fountain is not huge, but the [show](https://www.youtube.com/watch?v=x0AnDdRTXe0) is not bad
 
 ## [ZOO](https://en.wikipedia.org/wiki/Warsaw_Zoo)
 
@@ -103,13 +111,21 @@ I'd recommend you to go for a walk starting from the beginning of Nowy Świat St
 
 * definitely worth visiting, this is their [website](http://www.1944.pl/en)
 
-#### National Museum
+#### [National Museum](https://en.wikipedia.org/wiki/National_Museum,_Warsaw)
+
+* only if you're interested in Polish art!
+
+* their [website](http://www.mnw.art.pl/en/))
 
 #### [Museum of Polish Jews (Polin)](https://en.wikipedia.org/wiki/POLIN_Museum_of_the_History_of_Polish_Jews)
 
 * I haven't been there yet, so I cannot say a lot about it.
 
 * their [website](http://www.polin.pl/en)
+
+#### [Frederic Chopin Museum](https://en.wikipedia.org/wiki/Fryderyk_Chopin_Museum)
+
+* only if you really like [Chopin](http://chopin.museum/en)
 
 ## Trips outside of Warsaw
 
