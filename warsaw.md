@@ -51,7 +51,7 @@ I'd recommend you to go for a walk starting from the beginning of Nowy Świat St
 
 * [Presidential Palace](https://en.wikipedia.org/wiki/Presidential_Palace,_Warsaw)
 
-* [Pilsudski Square](https://en.wikipedia.org/wiki/Piłsudski_Square) with [Tomb of the Unknown Soldier](https://en.wikipedia.org/wiki/Tomb_of_the_Unknown_Soldier_(Warsaw)), [Saxon Garden](https://en.wikipedia.org/wiki/Saxon_Garden) and [National Theatre](https://en.wikipedia.org/wiki/National_Theatre,_Warsaw) - they are not directly at Nowy Świat Street, but very close to it
+* [Pilsudski Square](https://en.wikipedia.org/wiki/Piłsudski_Square) with [Tomb of the Unknown Soldier](https://en.wikipedia.org/wiki/Tomb_of_the_Unknown_Soldier_(Warsaw)), [Saxon Garden](https://en.wikipedia.org/wiki/Saxon_Garden) and [National Theatre and Opera](https://en.wikipedia.org/wiki/National_Theatre,_Warsaw) - they are not directly at Nowy Świat Street, but very close to it
 
 * [St. Anne's Church](https://en.wikipedia.org/wiki/St._Anne%27s_Church,_Warsaw) - the reason why I mention it is the [tower](http://www.taraswidokowy.pl/index.php?lang=en) next to the church with a superb view on the Old Town, highly recommended! Their website say the opening hours are 10-21 during the week and 11-22 during the weekend.
 
