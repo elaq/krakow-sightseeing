@@ -28,6 +28,18 @@
 
 * [legends](http://warsawtour.pl/en/warsaw-for-everyone/for-kids/warsaw-legends-3160.html?page=0,0)
 
+## [City Centre](https://en.wikipedia.org/wiki/Śródmieście,_Warsaw)
+
+* many people say it's concrete and ugly and probably they are right. I think it has improved recently, with new skyscrapers and old building renovations though.
+
+* [Pałac Kultury i Nauki](https://en.wikipedia.org/wiki/Palace_of_Culture_and_Science) - there are few people saying it should be demolished as it is a gift from Joseph Stalin. It became a "symbol" of Warsaw though and most people cannot imagine the city without it.
+
+* [Hotel Mariott](https://en.wikipedia.org/wiki/Centrum_LIM) - the oldest and most famous skyscraper in Warsaw
+
+* [Central Railway Station](https://en.wikipedia.org/wiki/Warszawa_Centralna_railway_station)
+
+* [Złote Tarasy](https://en.wikipedia.org/wiki/Złote_Tarasy) - shopping mall in the city centre with an interesting look
+
 ## [Old town](https://en.wikipedia.org/wiki/Warsaw_Old_Town)
 
 #### [Nowy Świat](https://en.wikipedia.org/wiki/Nowy_Świat_Street) and [Krakowskie Przedmieście](https://en.wikipedia.org/wiki/Krakowskie_Przedmieście)
