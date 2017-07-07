@@ -101,7 +101,7 @@ I'd recommend you to go for a walk starting from the beginning of Nowy Świat St
 
 * if you feel like going to a ZOO, there is a nice one in Warsaw (and with a very bad [website](http://zoo.waw.pl/en/))
 
-## [Fotoplastikon](https://en.wikipedia.org/wiki/Warsaw_Fotoplastikon)
+#### [Fotoplastikon](https://en.wikipedia.org/wiki/Warsaw_Fotoplastikon)
 
 * if you like old-fashioned attractions, that's an interesting thing to see and it's near the central railway station
 
