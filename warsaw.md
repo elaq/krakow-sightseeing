@@ -10,11 +10,9 @@
 
 * [train tickets](https://www.intercity.pl/en/site/for-passengers/information/journey-planner.html) - the main railway station is called Warszawa Centralna. Polish railways are called PKP Intercity. You can buy tickets both online and at the railway station - it's better to buy them in advance (because they are cheaper and some trains are full). Make sure you book trains with EIP in their names (avoid TLK, EIC and IC - some of them don't have air conditioning or restaurant coach and they are not as comfortable as EIP).
 
-* [Polish language](http://www.bbc.co.uk/languages/polish/soap/facts.shtml)
+* [Polish language](http://www.bbc.co.uk/languages/polish/soap/facts.shtml). Don't be surprised to meet people not speaking English at all or sepaking very poorly. Most of people above 40 years old may not speak English well as they learned Russian at school. Most of young people do speak English on a decent level.
 
 * Polish [dishes](https://www.buzzfeed.com/jessicamisener/proof-polish-food-isnt-all-disgusting) and [ingredients](http://www.tastingpoland.com/food/polish_food_ingredients.html)
-
-* Don't be surprised to meet people not speaking English at all or sepaking very poorly. Most of people above 40 years old may not speak English well as they learned Russian at school. Most of young people do speak English on a decent level.
 
 * Google [map](https://drive.google.com/open?id=17fp24uhcgS7CwDM9EwIFZE7XwBw&usp=sharing) with my markers :-)
 
