@@ -47,6 +47,8 @@ I'd recommend you to go for a walk starting from the beginning of Nowy Świat St
 
 * [Holy Cross Church](https://en.wikipedia.org/wiki/Holy_Cross_Church,_Warsaw) - you'll pass a couple of churches, but this one is probably the most famous one in Warsaw. Chopin's heart is buried here in one of the pillars.
 
+* main campus of the [University of Warsaw](https://upload.wikimedia.org/wikipedia/commons/f/f4/Warszawa-BramaUW.jpg)
+
 * [Presidential Palace](https://en.wikipedia.org/wiki/Presidential_Palace,_Warsaw)
 
 * [Pilsudski Square](https://en.wikipedia.org/wiki/Piłsudski_Square) with [Tomb of the Unknown Soldier](https://en.wikipedia.org/wiki/Tomb_of_the_Unknown_Soldier_(Warsaw)), [Saxon Garden](https://en.wikipedia.org/wiki/Saxon_Garden) and [National Theatre](https://en.wikipedia.org/wiki/National_Theatre,_Warsaw) - they are not directly at Nowy Świat Street, but very close to it
