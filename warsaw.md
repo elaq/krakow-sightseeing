@@ -117,7 +117,7 @@ I'd recommend you to go for a walk starting from the beginning of Nowy Świat St
 
 #### [Museum of Polish Jews (Polin)](https://en.wikipedia.org/wiki/POLIN_Museum_of_the_History_of_Polish_Jews)
 
-* I haven't been there yet, so I cannot say a lot about it. Here is their [website](http://www.polin.pl/en).
+* It's a brand new museum. I haven't been there yet, so I cannot say a lot about it. Here is their [website](http://www.polin.pl/en).
 
 #### [Frederic Chopin Museum](https://en.wikipedia.org/wiki/Fryderyk_Chopin_Museum)
 
