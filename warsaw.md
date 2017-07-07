@@ -63,6 +63,10 @@ I'd recommend you to go for a walk starting from the beginning of Nowy Świat St
 
 * [Market Place](https://en.wikipedia.org/wiki/Old_Town_Market_Place,_Warsaw)
 
+* [Barbican](https://en.wikipedia.org/wiki/Warsaw_Barbican)
+
+* if you are not exhausted yet :-), you may also want to see [Warsaw Uprising Monument](https://en.wikipedia.org/wiki/Warsaw_Uprising_Monument)
+
 #### Other
 
 ## [Łazienki park](https://en.wikipedia.org/wiki/Łazienki_Park)
@@ -71,15 +75,17 @@ I'd recommend you to go for a walk starting from the beginning of Nowy Świat St
 
 ## [Warsaw University Library](https://en.wikipedia.org/wiki/Warsaw_University_Library)
 
+## Park Fontann
+
 ## Museums worth visiting
 
 #### Museum of Warsaw Uprising
 
+## National Museum
+
 #### Museum of Polish Jews (Polin)
 
-#### 
-
-#### Trips
+## Trips outside of Warsaw
 
 * [Kraków](https://github.com/elaq/sightseeing/blob/master/krakow.md) - many people claim Krakow is the most beautiful Polish city. Unfortunately there are some railway works on the way to Krakow, because it takes around 1 hour longer than usual to get to Krakow from Warsaw - around 3 hours 25 minutes (one-way). The train is very comfortable though and have a restaurant coach, so you could have a breakfast/dinner without losing time. If you buy first class ticket you will get a decent meal directly to your seat for free. The 1-class ticket is probably around 30 pounds one-way (the earlier you buy, the cheaper the ticket). 4 hours in Krakow should be enough to see most famous places (they are all within 30 minutes on foot from the railway station). If you would like to spend the whole weekend in Krakow, I can recommend you the Ibis hotel very close to the railway station (at Pawia Street).
 
