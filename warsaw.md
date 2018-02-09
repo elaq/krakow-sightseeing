@@ -22,7 +22,7 @@
 
 * [Saxon Palace](https://en.wikipedia.org/wiki/Saxon_Palace) [before WW2](http://fotopolska.eu/foto/173/173259.jpg), [after war](https://www.warszawa.ap.gov.pl/saska/img/08-07.jpg) and [now](http://10bkpanc.wp.mil.pl/plik/image/2015_aktualnosci/09_wrzesien/aktualnosci_201506492.jpg)
 
-* Old Town [before WW2](https://upload.wikimedia.org/wikipedia/commons/0/0c/Warszawa-Rynek_Starego_Miasta-XIX.jpg) and [shortly after the war](https://upload.wikimedia.org/wikipedia/commons/f/fd/Old_Town_Warsaw_waf-2012-1501-31%281945%29.jpg), [even more dramatic](https://upload.wikimedia.org/wikipedia/commons/0/0f/Warsaw_Old_Town_1945.jpg)
+* Old Town [before WW2](https://upload.wikimedia.org/wikipedia/commons/0/0c/Warszawa-Rynek_Starego_Miasta-XIX.jpg) and [shortly after the war](https://upload.wikimedia.org/wikipedia/commons/f/fd/Old_Town_Warsaw_waf-2012-1501-31%281945%29.jpg), [even more dramatic](https://upload.wikimedia.org/wikipedia/commons/0/0f/Warsaw_Old_Town_1945.jpg), [now](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Warsaw_Old_Town_Market_Square_10.JPG/1200px-Warsaw_Old_Town_Market_Square_10.JPG)
 
 * [legends](http://warsawtour.pl/en/warsaw-for-everyone/for-kids/warsaw-legends-3160.html?page=0,0)
 
