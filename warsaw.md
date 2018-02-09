@@ -18,7 +18,7 @@
 
 ## History
 
-* interesting reading on a history of Warsaw: [1](http://www.localhistories.org/warsaw.html), [2](https://www.theguardian.com/society/2016/oct/25/meet-poles-who-went-home-warsaw-london-poland-return)
+* interesting reading on a [history of Warsaw](http://www.localhistories.org/warsaw.html)
 
 * [Saxon Palace](https://en.wikipedia.org/wiki/Saxon_Palace) [before WW2](http://fotopolska.eu/foto/173/173259.jpg), [after war](https://www.warszawa.ap.gov.pl/saska/img/08-07.jpg) and [now](http://10bkpanc.wp.mil.pl/plik/image/2015_aktualnosci/09_wrzesien/aktualnosci_201506492.jpg)
 
