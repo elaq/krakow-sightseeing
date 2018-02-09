@@ -4,13 +4,13 @@
 
 * [BBC weather forecast](http://www.bbc.com/weather/756135)
 
-* transport with Uber or taxis. I'd recommend [Ele Taxi](http://en.eletaxi.pl). Rather avoid taking random taxis with from the street - some companies are not playing fair and charge too much. You probably should be able to find Ele Taxi at the airport. There is also a train and a bus 175 going from the airport to the main railway station .
+* Uber / taxis - Uber is very common. From taxis, I can recommend e.g. [Ele Taxi](http://en.eletaxi.pl). There is also a train and bus 175 going from the airport to the main railway station.
 
 * public transport (called ZTM): [tickets](http://www.ztm.waw.pl/index.php?c=110&l=2) and [here you can find the route](http://warszawa.jakdojade.pl/). You will need paper tickets for zone 1. There are ticket machines in some buses/trains/bus stops, but it's probably safer to buy the tickets earlier in any newsagent's. Rememeber to validate the paper ticket once you get on a bus/tram and before entering the underground. If you buy a daily ticket, then you need to validate it only once on your first journey. You can buy the tickets with a mobile app too. I use the app called SkyCash ([Android](https://play.google.com/store/apps/details?id=com.skycash.beta) and [ios](https://itunes.apple.com/pl/app/skycash/id320226186) - I'm not sure if this app is translated into English though. Btw. there are only 2 tube lines in Warsaw, but trams and buses are quite fast.
 
 * [train tickets](https://www.intercity.pl/en/site/for-passengers/information/journey-planner.html) - the main railway station is called Warszawa Centralna (Central Railway Station). Polish railways are called PKP Intercity. You can buy tickets both online and at the railway station - it's better to buy them in advance, because they are cheaper and some trains may be full. Make sure you book trains with EIP in their names (avoid TLK, EIC and IC - some of them don't have air conditioning or restaurant coach and they are not as comfortable as EIP).
 
-* [Polish language](http://www.bbc.co.uk/languages/polish/soap/facts.shtml). Don't be surprised to meet people not speaking English at all or sepaking English very poorly. Most of people above 40 years old may not speak English well because they learned Russian at school. Most of young people do speak English on a decent level.
+* [Polish language](http://www.bbc.co.uk/languages/polish/soap/facts.shtml). Don't be surprised to meet people not speaking English at all or sepaking English very poorly. Most people above 40 years old may not speak English well (they learned Russian at school). Most of young people do speak English on a decent level.
 
 * Polish [dishes](https://www.buzzfeed.com/jessicamisener/proof-polish-food-isnt-all-disgusting) and [ingredients](http://www.tastingpoland.com/food/polish_food_ingredients.html)
 
@@ -18,7 +18,7 @@
 
 ## History
 
-* interesting reading on history of Warsaw: [1](http://www.localhistories.org/warsaw.html), [2](https://www.theguardian.com/society/2016/oct/25/meet-poles-who-went-home-warsaw-london-poland-return)
+* interesting reading on a history of Warsaw: [1](http://www.localhistories.org/warsaw.html), [2](https://www.theguardian.com/society/2016/oct/25/meet-poles-who-went-home-warsaw-london-poland-return)
 
 * [Saxon Palace](https://en.wikipedia.org/wiki/Saxon_Palace) [before WW2](http://fotopolska.eu/foto/173/173259.jpg), [after war](https://www.warszawa.ap.gov.pl/saska/img/08-07.jpg) and [now](http://10bkpanc.wp.mil.pl/plik/image/2015_aktualnosci/09_wrzesien/aktualnosci_201506492.jpg)
 
@@ -28,7 +28,7 @@
 
 ## [City Centre](https://en.wikipedia.org/wiki/Śródmieście,_Warsaw)
 
-* many people say it's concrete and ugly and probably they are right. I think it has improved recently though, with new skyscrapers and old building renovations it looks ok.
+* many people say it's concrete and ugly and probably they are right. I think it has improved recently though, with new skyscrapers and renovation of old buildings it looks ok.
 
 * [Pałac Kultury i Nauki](https://en.wikipedia.org/wiki/Palace_of_Culture_and_Science) - there are few people saying it should be demolished as it is a gift from Joseph Stalin. It became a "symbol" of Warsaw though and most people cannot imagine the city without it.
 
@@ -57,7 +57,7 @@ I'd recommend you to go for a walk starting from the beginning of Nowy Świat St
 
 #### [Castle Square](https://en.wikipedia.org/wiki/Castle_Square,_Warsaw)
 
-* [Royal Castle](https://en.wikipedia.org/wiki/Royal_Castle,_Warsaw) - it was rebuilt after WW2 in seventies, but looks identical to the previous one. There are nice interiors in the Castle, you may want to visit [it](https://www.zamek-krolewski.pl/en)
+* [Royal Castle](https://en.wikipedia.org/wiki/Royal_Castle,_Warsaw) - it was rebuilt after WW2 in seventies, but looks identical to the original one. There are nice interiors in the Castle, it may be worth paying a [visit](https://www.zamek-krolewski.pl/en)
 
 * [Sigismund's Column](https://en.wikipedia.org/wiki/Sigismund%27s_Column)
 
@@ -65,7 +65,7 @@ I'd recommend you to go for a walk starting from the beginning of Nowy Świat St
 
 * [St. John's Archcathedral](https://en.wikipedia.org/wiki/St._John%27s_Archcathedral,_Warsaw)
 
-* [Market Place](https://en.wikipedia.org/wiki/Old_Town_Market_Place,_Warsaw) with [Mermaid statue](https://en.wikipedia.org/wiki/Mermaid_of_Warsaw), which is the symbol of Warsaw
+* [Market Place](https://en.wikipedia.org/wiki/Old_Town_Market_Place,_Warsaw) with [Mermaid statue](https://en.wikipedia.org/wiki/Mermaid_of_Warsaw), which is a symbol of Warsaw
 
 * [Little Insurgent Monument](https://en.wikipedia.org/wiki/Mały_Powstaniec) - a small statue, but with a touching story
 
@@ -79,7 +79,7 @@ I'd recommend you to go for a walk starting from the beginning of Nowy Świat St
 
 * most famous park in Warsaw (you can meet a peacock here) with a [Chopin statue](https://en.wikipedia.org/wiki/Chopin_Statue,_Warsaw)
 
-* Chopin concerts take place regularly near the Chopin statue (e.g. on 16th July at noon and 4 pm)
+* Chopin concerts take place near the Chopin statue regularly during summer season
 
 * [Belweder](https://en.wikipedia.org/wiki/Belweder) - next to the Park there is a palace called Belweder used as an official residence by Polish presidents in the past
 
@@ -101,11 +101,11 @@ I'd recommend you to go for a walk starting from the beginning of Nowy Świat St
 
 #### [Multimedia Fountain Park](http://www.warsawtour.pl/en/tourist-attractions/multimedia-fountain-park-multimedialny-park-fontann-161002.html)
 
-* if you fancy a fountains laser show, it's there for you at 9:30 pm on Friday and Saturday. The fountain is not huge, but the [show](https://www.youtube.com/watch?v=x0AnDdRTXe0) is not bad
+* if you fancy a fountains laser show, it's there for you at 9:30 pm on Friday and Saturday (during summer season). The fountain is not huge, but the [show](https://www.youtube.com/watch?v=x0AnDdRTXe0) is not bad
 
 #### [ZOO](https://en.wikipedia.org/wiki/Warsaw_Zoo)
 
-* if you feel like going to a ZOO, there is a nice one in Warsaw (and with a very bad [website](http://zoo.waw.pl/en/))
+* if you feel like going to a [ZOO](http://zoo.waw.pl/en/), there is one in Warsaw 
 
 #### [Fotoplastikon](https://en.wikipedia.org/wiki/Warsaw_Fotoplastikon)
 
@@ -123,7 +123,7 @@ I'd recommend you to go for a walk starting from the beginning of Nowy Świat St
 
 #### [Museum of Polish Jews (Polin)](https://en.wikipedia.org/wiki/POLIN_Museum_of_the_History_of_Polish_Jews)
 
-* it's a brand new museum. I haven't been there yet, so I cannot say a lot about it. Here is their [website](http://www.polin.pl/en).
+* it's a new museum. I haven't been there yet, but I think it's definitely worth paying a visit. Here is their [website](http://www.polin.pl/en).
 
 #### [Frederic Chopin Museum](https://en.wikipedia.org/wiki/Fryderyk_Chopin_Museum)
 
@@ -133,21 +133,23 @@ I'd recommend you to go for a walk starting from the beginning of Nowy Świat St
 
 There is a lot to see in Warsaw and you probably won't be bored during your trip, but if you still need more, here are some ideas :-)
 
-* [Kraków](https://github.com/elaq/sightseeing/blob/master/krakow.md) - many people claim Krakow is the most beautiful Polish city. Trains going to Krakow are very comfortable and have a restaurant coach, so you could have a breakfast/dinner without losing time. If you buy first class ticket you will get a decent meal directly to your seat for free. The 1-class ticket is probably around 150 złoty one-way (the earlier you buy, the cheaper the ticket). 3-4 hours in Krakow should be enough to see most famous places (they are all within 30 minutes on foot from the railway station). If you would like to spend the whole weekend in Krakow, I can recommend you the Ibis hotel very close to the railway station (at Pawia Street).
+* [Kraków](https://github.com/elaq/sightseeing/blob/master/krakow.md) - many people claim Krakow is the most beautiful Polish city. Trains going to Krakow are very comfortable and have a restaurant coach, so you can have breakfast/dinner. If you buy first class ticket you will get a decent meal directly to your seat (included in price). The 1-class ticket is probably around 150 złoty one-way (the earlier you buy, the cheaper the ticket). 4-5 hours in Krakow should be enough to see most famous places (they are all within 30 minutes on foot from the railway station). If you would like to spend the whole weekend in Krakow, I can recommend you the Ibis hotel very close to the railway station (at Pawia Street).
 
-* [Gdańsk](https://en.wikipedia.org/wiki/Tricity,_Poland) - also a very nice and big city at the seaside, there are 2 other cities nearby called Gdynia (with a harbour) and Sopot (with a nice, sandy beach). I can recommend you to get off the train either in Gdansk (for sightseeing) or in Sopot (for sunbathing). It takes around 2 hours 45 minutes to get to Gdansk and 3 hours 5 minutes to get to Sopot. The train is similar to the one that goes to Krakow.
+* [Gdańsk](https://en.wikipedia.org/wiki/Tricity,_Poland) - also a very nice city at the seaside, there are 2 other cities nearby called Gdynia (with a harbour) and Sopot (with a nice, sandy beach). I can recommend you to get off the train either in Gdansk (for sightseeing) or in Sopot (for sunbathing - of course only in summer season :-)). It takes around 2 hours 45 minutes to get to Gdansk and 3 hours 5 minutes to get to Sopot. The train is similar to the one that goes to Krakow.
 
-* [Częstochowa](https://en.wikipedia.org/wiki/Częstochowa) - my home town, city with an old monastery and nice [surroundings](https://en.wikipedia.org/wiki/Olsztyn_Castle_(Silesian_Voivodeship)), but this time please better go to Krakow instead :-)
+* [Częstochowa](https://en.wikipedia.org/wiki/Częstochowa) - my home town, city with an old monastery and nice [surroundings](https://en.wikipedia.org/wiki/Olsztyn_Castle_(Silesian_Voivodeship)) :-)
 
-* unfortunately there are no places worth visiting very close to Warsaw... The one worth a mention is [Żelazowa Wola](https://en.wikipedia.org/wiki/Żelazowa_Wola) with a very nice park. This is the place where Frederic Chopin was born, however, getting there from Warsaw with a publich transport would be terrible so I defeinitely don't recommend you to go there.
+* There are no special attractions close to Warsaw. Maybe the one worth a mention is [Żelazowa Wola](https://en.wikipedia.org/wiki/Żelazowa_Wola) with a very nice park. This is the place where Frederic Chopin was born, however, getting there from Warsaw with a publich transport would be terrible so I can't recommend you to go there.
 
 ## Restaurants
 
-* [Czerwony Wieprz](http://www.czerwonywieprz.pl/en) (Red Hog) - I haven't been there for a long time, but it used to be a very good restaurant arranged in a "communist" style and serving traditional Polish food
+* [Czerwony Wieprz](http://www.czerwonywieprz.pl/en) (Red Hog) - a decent restaurant arranged in a "communist" style and serving traditional Polish food
 
 * [Vapiano](http://pl.vapiano.com/en/welcome/) - Italian food. I tried it in London first, very good for a quick and tasty dinner
 
-* [Spacca Napoli](http://spaccanapoli.pl/en/) - I've heard they have the best pizza in Warsaw
+* [Munja](http://restauracja-munja.pl) - Balkan cuisine, not that expensive and highly recommended
+
+* [Spacca Napoli](http://spaccanapoli.pl/en/) - probably the best pizza in Warsaw
 
 * [Sphinx](http://www.sphinx.pl) - chain restaurants, popular in shopping malls; looks like they don't have English website
 
